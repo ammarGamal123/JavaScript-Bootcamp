@@ -25,6 +25,3 @@ console.log (a.split("" , 5));
 console.log (a.split (" " , 2));
 
 
-
-
-
